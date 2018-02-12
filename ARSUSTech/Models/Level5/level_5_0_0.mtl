@@ -1,0 +1,35 @@
+#  
+#  Wavefront MTL
+#  
+#  
+
+newmtl mat_tex_0
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd level_5_0_0_tex_0.jpg
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_Ns
+
+newmtl mat_tex_1
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd level_5_0_0_tex_1.jpg
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_Ns
+
